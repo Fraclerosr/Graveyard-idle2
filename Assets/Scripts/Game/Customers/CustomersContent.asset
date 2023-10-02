@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e7bfab017334338a40e6a3393b366bb, type: 3}
+  m_Name: CustomersContent
+  m_EditorClassIdentifier: 
+  _customers:
+  - <Customer>k__BackingField: {fileID: 3086086341564234859, guid: e5d86c8ffd4e5764296c22c80a07e491, type: 3}
+    <UnlockRule>k__BackingField: {fileID: 11400000, guid: fad59fd966d6a7f40a230673502bb35d, type: 2}
+  - <Customer>k__BackingField: {fileID: 3086086341564234859, guid: 0c46746a1d321794c81d5f717863a5dc, type: 3}
+    <UnlockRule>k__BackingField: {fileID: 11400000, guid: 23a81dd4dee0c6e48b2871bea7cc6dea, type: 2}
+  - <Customer>k__BackingField: {fileID: 3086086341564234859, guid: f4a4fe70d1bc97e4dbdf092fff2fa5a0, type: 3}
+    <UnlockRule>k__BackingField: {fileID: 11400000, guid: 2093f18ffaf8ad94589aec235ceffc23, type: 2}
+  - <Customer>k__BackingField: {fileID: 4139461661711327635, guid: 72aac0ffa086d0347b1e77f5c1b3181b, type: 3}
+    <UnlockRule>k__BackingField: {fileID: 11400000, guid: 964f38cd1f34fb546b08ad508a9f5007, type: 2}
